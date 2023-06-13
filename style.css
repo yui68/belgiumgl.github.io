@@ -1,0 +1,67 @@
+h1 {
+    font-size: 5rem;
+    color: #8cb3e6de;
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #ffffff;
+}
+
+body {
+    background: url(images/bg.png) no-repeat center center fixed;
+    background-size: cover;
+    font: bold;
+    font-family: intro; 
+}
+
+li {
+    font-size: 2.5rem;
+    color: #ffffffd3;
+}
+
+.mainText {
+    text-align: center;
+}
+
+.pages a.active {
+    float: left;
+    background-color: #7260da;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.pages a {
+    float: left;
+    background-color: #80ccff;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.newsList {
+    background-color: rgba(115, 253, 242, 0.342);
+    border-radius: 20px;
+}
+
+.csList {
+    background-position: center;
+    background-color: rgba(115, 253, 242, 0.342);
+    border-radius: 20px;
+}
+
+.pyList {
+    background-position: center;
+    background-color: rgba(115, 253, 242, 0.342);
+    border-radius: 20px;
+}
+
+.proj {
+    color: #ffffff
+}
+
